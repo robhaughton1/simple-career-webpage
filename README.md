@@ -3,7 +3,7 @@
 This project is a simple HTML and CSS website created as part of an early web development assignment. It presents basic career information.
 
 ## Features
-- Structured webpage built with semantic HTML
+- Structured webpage built with HTML
 - External CSS stylesheet for layout and design
 - Organized image folder for assets
 - Simple, readable design suitable for beginners
