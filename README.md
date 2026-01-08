@@ -18,5 +18,3 @@ This project is a simple HTML and CSS website created as part of an early web de
 - HTML5
 - CSS3
 
-## How to View
-Open `index.html` in any web browser to view the webpage.
